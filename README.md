@@ -1,4 +1,4 @@
-🧠 Polytime Verifiers for NP Problems This repository contains Python implementations of polynomial-time verifiers for three classic NP decision problems:
+Polytime Verifiers for NP Problems This repository contains Python implementations of polynomial-time verifiers for three classic NP decision problems:
 
 PACKING – Verifies if a subset of weights fits within a given lower and upper bound.
 
